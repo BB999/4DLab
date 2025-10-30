@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "projectPath": "/Users/noranekob/cursor/4DLab",
+  "projectRootName": "4DLab",
+  "graphRenderingMode": "normal",
+  "linkDisplayMode": "all",
+  "graphStats": {
+    "totalNodes": 3,
+    "folders": 1,
+    "files": 2,
+    "images": 0,
+    "videos": 0,
+    "audio": 0,
+    "code": 0,
+    "text": 1,
+    "html": 0,
+    "yaml": 0,
+    "json": 0,
+    "other": 1,
+    "totalLines": 0,
+    "maxLines": 0
+  },
+  "directoryTree": {
+    "name": "4DLab",
+    "type": "directory",
+    "children": [
+      {
+        "name": ".gitignore",
+        "type": "file",
+        "lines": 0
+      },
+      {
+        "name": "README.md",
+        "type": "file",
+        "lines": 0
+      }
+    ]
+  },
+  "graphData": {
+    "nodes": [
+      {
+        "id": "4DLab",
+        "name": "4DLab",
+        "path": "4DLab",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": null,
+        "childFileCount": 2,
+        "x": -4.417247462145805,
+        "y": -4.770616541194551,
+        "z": -1.0726770100502532,
+        "vx": -1.5134416342982697e-7,
+        "vy": -1.5948970130662927e-7,
+        "vz": -3.350668829152391e-8
+      },
+      {
+        "id": "4DLab/.gitignore",
+        "name": ".gitignore",
+        "path": "4DLab/.gitignore",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "4DLab",
+        "childFileCount": 0,
+        "x": -17.138096125274703,
+        "y": 15.176057570686169,
+        "z": 23.43403511065103,
+        "vx": -1.8041456934129024e-7,
+        "vy": -1.8094614075676921e-7,
+        "vz": -3.242335849727259e-8
+      },
+      {
+        "id": "4DLab/README.md",
+        "name": "README.md",
+        "path": "4DLab/README.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "4DLab",
+        "childFileCount": 0,
+        "x": 21.55534309652844,
+        "y": -10.405441562583245,
+        "z": -22.36135822220803,
+        "vx": -1.5913333069307648e-7,
+        "vy": -1.926557840235547e-7,
+        "vz": -5.567720039483934e-8
+      }
+    ],
+    "links": [
+      {
+        "source": "4DLab",
+        "target": "4DLab/.gitignore",
+        "type": "tree"
+      },
+      {
+        "source": "4DLab",
+        "target": "4DLab/README.md",
+        "type": "tree"
+      }
+    ]
+  },
+  "trackedFiles": [
+    ".gitignore",
+    "README.md"
+  ],
+  "uiState": {
+    "expandedDirs": [
+      "4DLab",
+      "4DLab/4DLab",
+      "4DLab/.kamui",
+      "4DLab/4DLab/.kamui"
+    ],
+    "selectedPath": null
+  },
+  "directoryTreeMeta": {
+    "mode": "full",
+    "maxDepthApplied": 10,
+    "maxEntriesPerDirectory": 0,
+    "isPartial": false
+  },
+  "gitHistoryMeta": {
+    "mode": "full",
+    "isPartial": false,
+    "branchPulse": {
+      "generatedAt": 1761690761689,
+      "targets": [
+        "main",
+        "task/task-1761640978164-b59bd4",
+        "task/task-1761640980277-0c5cbc",
+        "task/task-1761640982360-1a32bd",
+        "master"
+      ],
+      "statsByBranch": {
+        "main": {
+          "branch": "main",
+          "head": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "baseRef": "origin/main",
+          "baseHead": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "mergeBase": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "divergence": {
+            "aheadCount": 0,
+            "fileCount": 0
+          },
+          "baseline": {
+            "aheadCount": 0,
+            "behindCount": 0,
+            "fileCount": 0
+          },
+          "upstream": null
+        },
+        "task/task-1761640978164-b59bd4": {
+          "branch": "task/task-1761640978164-b59bd4",
+          "head": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "baseRef": "main",
+          "baseHead": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "mergeBase": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "divergence": {
+            "aheadCount": 0,
+            "fileCount": 0
+          },
+          "baseline": {
+            "aheadCount": 0,
+            "behindCount": 1,
+            "fileCount": 1
+          },
+          "upstream": null
+        },
+        "task/task-1761640980277-0c5cbc": {
+          "branch": "task/task-1761640980277-0c5cbc",
+          "head": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "baseRef": "main",
+          "baseHead": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "mergeBase": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "divergence": {
+            "aheadCount": 0,
+            "fileCount": 0
+          },
+          "baseline": {
+            "aheadCount": 0,
+            "behindCount": 1,
+            "fileCount": 1
+          },
+          "upstream": null
+        },
+        "task/task-1761640982360-1a32bd": {
+          "branch": "task/task-1761640982360-1a32bd",
+          "head": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "baseRef": "main",
+          "baseHead": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "mergeBase": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "divergence": {
+            "aheadCount": 0,
+            "fileCount": 0
+          },
+          "baseline": {
+            "aheadCount": 0,
+            "behindCount": 1,
+            "fileCount": 1
+          },
+          "upstream": null
+        }
+      }
+    }
+  },
+  "gitHistoryState": {
+    "selectedTimelineIndex": 1,
+    "activeCommitHash": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+    "entries": [
+      {
+        "type": "live",
+        "label": "現在のコードベース",
+        "files": [],
+        "branch": "main",
+        "targetCommitHash": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+        "worktreePath": "/Users/noranekob/cursor/4DLab",
+        "timestamp": 1761690761711,
+        "lane": 0,
+        "branchLabel": "main",
+        "branchTags": [
+          "main"
+        ],
+        "isDefaultWorktree": true,
+        "branchColor": "#4f85e8",
+        "index": 0
+      },
+      {
+        "type": "commit",
+        "label": "Add .gitignore to exclude .kamui files",
+        "commit": {
+          "hash": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+          "subject": "Add .gitignore to exclude .kamui files",
+          "author": "noranekob",
+          "timestamp": 1761641660,
+          "parents": [
+            "09e4ad15f02e414b3d041204c67f2ae39f9f86bb"
+          ],
+          "parent": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "refs": "HEAD -> main, origin/main",
+          "branches": [
+            "HEAD -> main",
+            "origin/main",
+            "main"
+          ]
+        },
+        "commitHash": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "main"
+        ],
+        "worktrees": [
+          {
+            "path": "/Users/noranekob/cursor/4DLab",
+            "head": "3fede33f5a2b325227acb29e4dcd7d5d42b83f5d",
+            "branch": "main",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [],
+              "unstaged": [],
+              "untracked": [
+                {
+                  "path": ".worktrees/task-1761640978164-b59bd4/",
+                  "status": "untracked",
+                  "rawPath": ".worktrees/task-1761640978164-b59bd4/",
+                  "timestamp": 1761690761504
+                },
+                {
+                  "path": ".worktrees/task-1761640980277-0c5cbc/",
+                  "status": "untracked",
+                  "rawPath": ".worktrees/task-1761640980277-0c5cbc/",
+                  "timestamp": 1761690761504
+                },
+                {
+                  "path": ".worktrees/task-1761640982360-1a32bd/",
+                  "status": "untracked",
+                  "rawPath": ".worktrees/task-1761640982360-1a32bd/",
+                  "timestamp": 1761690761504
+                }
+              ],
+              "capturedAt": 1761690761504
+            },
+            "normalizedPath": "/Users/noranekob/cursor/4DLab",
+            "lane": 0
+          }
+        ],
+        "index": 1
+      },
+      {
+        "type": "unstaged",
+        "label": "未ステージ [task/task-1761640980277-0c5cbc] (1)",
+        "files": [
+          "cat-story.html"
+        ],
+        "branch": "task/task-1761640980277-0c5cbc",
+        "targetCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+        "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640980277-0c5cbc",
+        "timestamp": 1761690761520,
+        "sortOrder": 0,
+        "lane": 2,
+        "branchColor": "#4fe8b8",
+        "index": 2
+      },
+      {
+        "type": "unstaged",
+        "label": "未ステージ [task/task-1761640982360-1a32bd] (2)",
+        "files": [
+          "monitor-cycle-20251028T0850Z.html",
+          "monitor-cycle-20251028T1746.html"
+        ],
+        "branch": "task/task-1761640982360-1a32bd",
+        "targetCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+        "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640982360-1a32bd",
+        "timestamp": 1761690761520,
+        "sortOrder": 0,
+        "lane": 3,
+        "branchColor": "#e84f7f",
+        "index": 3
+      },
+      {
+        "type": "anchor",
+        "label": "[作業中] CodexCLI1: 捨てられた猫と小学生の女の子の感動の物語を…",
+        "branch": "task/task-1761640978164-b59bd4",
+        "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640978164-b59bd4",
+        "parentCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+        "lane": 1,
+        "isMerged": false,
+        "mergeCommitHash": null,
+        "statusChildren": [],
+        "isDefaultWorktree": false,
+        "renderMode": "node",
+        "shouldHide": false,
+        "tagLabel": "task/task-1761640978164-b59bd4",
+        "taskId": "task-1761640978164-b59bd4",
+        "taskStatus": "working",
+        "taskStatusLabel": "作業中",
+        "taskName": "CodexCLI1: 捨てられた猫と小学生の女の子の感動の物語をhtmlに書いて",
+        "tooltip": "タスク: CodexCLI1: 捨てられた猫と小学生の女の子の感動の物語をhtmlに書いて\nステータス: 作業中\nID: task-1761640978164-b59bd4\nBranch: task/task-1761640978164-b59bd4\nWorktree: Users/noranekob/cursor/4DLab/.worktrees/task-1761640978164-b59bd4",
+        "branchColor": "#e8a84f",
+        "index": 4
+      },
+      {
+        "type": "anchor",
+        "label": "[作業中] ClaudeCode1: 捨てられた猫と小学生の女の子の感動の物…",
+        "branch": "task/task-1761640980277-0c5cbc",
+        "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640980277-0c5cbc",
+        "parentCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+        "lane": 2,
+        "isMerged": false,
+        "mergeCommitHash": null,
+        "statusChildren": [
+          {
+            "type": "unstaged",
+            "label": "未ステージ [task/task-1761640980277-0c5cbc] (1)",
+            "files": [
+              "cat-story.html"
+            ],
+            "branch": "task/task-1761640980277-0c5cbc",
+            "targetCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+            "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640980277-0c5cbc",
+            "timestamp": 1761690761520,
+            "sortOrder": 0,
+            "lane": 2,
+            "branchColor": "#4fe8b8",
+            "index": 2
+          }
+        ],
+        "isDefaultWorktree": false,
+        "renderMode": "node",
+        "shouldHide": false,
+        "tagLabel": "task/task-1761640980277-0c5cbc",
+        "taskId": "task-1761640980277-0c5cbc",
+        "taskStatus": "working",
+        "taskStatusLabel": "作業中",
+        "taskName": "ClaudeCode1: 捨てられた猫と小学生の女の子の感動の物語をhtmlに書いて",
+        "tooltip": "タスク: ClaudeCode1: 捨てられた猫と小学生の女の子の感動の物語をhtmlに書いて\nステータス: 作業中\nID: task-1761640980277-0c5cbc\nBranch: task/task-1761640980277-0c5cbc\nWorktree: Users/noranekob/cursor/4DLab/.worktrees/task-1761640980277-0c5cbc",
+        "branchColor": "#4fe8b8",
+        "index": 5
+      },
+      {
+        "type": "anchor",
+        "label": "[作業中] 🔍Monitor: 捨てられた猫と小学生の女の子の感動の物語を…",
+        "branch": "task/task-1761640982360-1a32bd",
+        "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640982360-1a32bd",
+        "parentCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+        "lane": 3,
+        "isMerged": false,
+        "mergeCommitHash": null,
+        "statusChildren": [
+          {
+            "type": "unstaged",
+            "label": "未ステージ [task/task-1761640982360-1a32bd] (2)",
+            "files": [
+              "monitor-cycle-20251028T0850Z.html",
+              "monitor-cycle-20251028T1746.html"
+            ],
+            "branch": "task/task-1761640982360-1a32bd",
+            "targetCommitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+            "worktreePath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640982360-1a32bd",
+            "timestamp": 1761690761520,
+            "sortOrder": 0,
+            "lane": 3,
+            "branchColor": "#e84f7f",
+            "index": 3
+          }
+        ],
+        "isDefaultWorktree": false,
+        "renderMode": "node",
+        "shouldHide": false,
+        "tagLabel": "task/task-1761640982360-1a32bd",
+        "taskId": "task-1761640982360-1a32bd",
+        "taskStatus": "working",
+        "taskStatusLabel": "作業中",
+        "taskName": "🔍Monitor: 捨てられた猫と小学生の女の子の感動の物語をhtmlに書いて",
+        "tooltip": "タスク: 🔍Monitor: 捨てられた猫と小学生の女の子の感動の物語をhtmlに書いて\nステータス: 作業中\nID: task-1761640982360-1a32bd\nBranch: task/task-1761640982360-1a32bd\nWorktree: Users/noranekob/cursor/4DLab/.worktrees/task-1761640982360-1a32bd",
+        "branchColor": "#e84f7f",
+        "index": 6
+      },
+      {
+        "type": "commit",
+        "label": "Add initial README",
+        "commit": {
+          "hash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+          "subject": "Add initial README",
+          "author": "noranekob",
+          "timestamp": 1761640784,
+          "parents": [],
+          "parent": null,
+          "refs": "task/task-1761640982360-1a32bd, task/task-1761640980277-0c5cbc, task/task-1761640978164-b59bd4",
+          "branches": [
+            "task/task-1761640982360-1a32bd",
+            "task/task-1761640980277-0c5cbc",
+            "task/task-1761640978164-b59bd4",
+            "main"
+          ]
+        },
+        "commitHash": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+        "lane": 0,
+        "parentLinks": [],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "worktrees": [
+          {
+            "path": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640978164-b59bd4",
+            "head": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+            "branch": "task/task-1761640978164-b59bd4",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [],
+              "unstaged": [],
+              "untracked": [],
+              "capturedAt": 1761690761504
+            },
+            "normalizedPath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640978164-b59bd4",
+            "lane": 1
+          },
+          {
+            "path": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640980277-0c5cbc",
+            "head": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+            "branch": "task/task-1761640980277-0c5cbc",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [],
+              "unstaged": [],
+              "untracked": [
+                {
+                  "path": "cat-story.html",
+                  "status": "untracked",
+                  "rawPath": "cat-story.html",
+                  "timestamp": 1761690761520
+                }
+              ],
+              "capturedAt": 1761690761520
+            },
+            "normalizedPath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640980277-0c5cbc",
+            "lane": 2
+          },
+          {
+            "path": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640982360-1a32bd",
+            "head": "09e4ad15f02e414b3d041204c67f2ae39f9f86bb",
+            "branch": "task/task-1761640982360-1a32bd",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [],
+              "unstaged": [],
+              "untracked": [
+                {
+                  "path": "monitor-cycle-20251028T0850Z.html",
+                  "status": "untracked",
+                  "rawPath": "monitor-cycle-20251028T0850Z.html",
+                  "timestamp": 1761690761520
+                },
+                {
+                  "path": "monitor-cycle-20251028T1746.html",
+                  "status": "untracked",
+                  "rawPath": "monitor-cycle-20251028T1746.html",
+                  "timestamp": 1761690761520
+                }
+              ],
+              "capturedAt": 1761690761520
+            },
+            "normalizedPath": "/Users/noranekob/cursor/4DLab/.worktrees/task-1761640982360-1a32bd",
+            "lane": 3
+          }
+        ],
+        "index": 7
+      },
+      {
+        "type": "empty",
+        "label": "初期状態 (初回コミット以前)",
+        "files": [],
+        "marker": "pre-history",
+        "index": 8
+      }
+    ]
+  },
+  "projectRoot": "/Users/noranekob/cursor/4DLab",
+  "savedAt": 1761690772162
+}
