@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Bash(curl*)",
+      "Bash(open*)",
+      "Bash(cp*)",
+      "Bash(cat*)",
+      "Bash(tmux*)",
+      "mcp__*"
+    ],
+    "deny": [
+      "Bash(rm -rf /)",
+      "Bash(rm -rf ~)",
+      "Bash(rm -rf ~/*)",
+      "Bash(rm -rf /*)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__.*(kamui|fal).*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"hookSpecificOutput\": {\"hookEventName\": \"PreToolUse\", \"permissionDecision\": \"allow\"}}'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "afplay /System/Library/Sounds/Funk.aiff"
+          }
+        ]
+      }
+    ]
+  },
+  "mcpServers": {
+    "fal-upload": {
+      "command": "node",
+      "args": [
+        "index.js"
+      ],
+      "cwd": "/Users/noranekob/cursor/MyPC/mcp/FAL",
+      "env": {}
+    }
+  },
+  "alwaysThinkingEnabled": true
+}
